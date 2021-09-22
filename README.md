@@ -10,3 +10,4 @@
 | 04  | [Array Cardio](https://github.com/aykutulis/30-projects-html-css-js/tree/master/04-array-cardio)             | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/04-array-cardio)       |
 | 05  | [Flex Panel Gallery](https://github.com/aykutulis/30-projects-html-css-js/tree/master/05-flex-panel-gallery) | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/05-flex-panel-gallery) |
 | 06  | [Type Ahead](https://github.com/aykutulis/30-projects-html-css-js/tree/master/06-type-ahead)                 | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/06-type-ahead)         |
+| 07  | [Array Cardio 2](https://github.com/aykutulis/30-projects-html-css-js/tree/master/07-array-cardio-2)                 | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/07-array-cardio-2)         |
