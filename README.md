@@ -14,3 +14,4 @@
 | 08  | [Fun With Canvas](https://github.com/aykutulis/30-projects-html-css-js/tree/master/08-fun-with-canvas)                     | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/08-fun-with-canvas)           |
 | 09  | [Dev Tools Domination](https://github.com/aykutulis/30-projects-html-css-js/tree/master/09-dev-tools-domination)           | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/09-dev-tools-domination)      |
 | 10  | [Hold Shift And Checkboxes](https://github.com/aykutulis/30-projects-html-css-js/tree/master/10-hold-shift-and-checkboxes) | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/10-hold-shift-and-checkboxes) |
+| 11  | [Custom Video Player](https://github.com/aykutulis/30-projects-html-css-js/tree/master/11-custom-video-player)             | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/11-custom-video-player)       |
