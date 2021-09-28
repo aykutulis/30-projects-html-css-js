@@ -16,3 +16,4 @@
 | 10  | [Hold Shift And Checkboxes](https://github.com/aykutulis/30-projects-html-css-js/tree/master/10-hold-shift-and-checkboxes) | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/10-hold-shift-and-checkboxes) |
 | 11  | [Custom Video Player](https://github.com/aykutulis/30-projects-html-css-js/tree/master/11-custom-video-player)             | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/11-custom-video-player)       |
 | 12  | [Key Sequence Detection](https://github.com/aykutulis/30-projects-html-css-js/tree/master/12-key-sequence-detection)       | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/12-key-sequence-detection)    |
+| 13  | [Slide In on Scroll](https://github.com/aykutulis/30-projects-html-css-js/tree/master/13-slide-in-on-scroll)               | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/13-slide-in-on-scroll)        |
