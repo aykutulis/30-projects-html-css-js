@@ -20,3 +20,4 @@
 | 14  | [References VS Copying](https://github.com/aykutulis/30-projects-html-css-js/tree/master/14-references-vs-copying)         | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/14-references-vs-copying)     |
 | 15  | [Local Tapas](https://github.com/aykutulis/30-projects-html-css-js/tree/master/15-local-tapas)                             | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/15-local-tapas)               |
 | 16  | [Mouse Move Shadow](https://github.com/aykutulis/30-projects-html-css-js/tree/master/16-mouse-move-shadow)                 | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/16-mouse-move-shadow)         |
+| 17  | [Sort Without Articles](https://github.com/aykutulis/30-projects-html-css-js/tree/master/17-sort-without-articles)         | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/17-sort-without-articles)     |
