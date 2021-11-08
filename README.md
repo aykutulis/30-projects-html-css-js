@@ -27,3 +27,4 @@
 | 21  | [Webcam](https://github.com/aykutulis/30-projects-html-css-js/tree/master/21-geolocation)                                      | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/21-geolocation)                   |
 | 22  | [Webcam](https://github.com/aykutulis/30-projects-html-css-js/tree/master/22-follow-along-link-highlighter)                    | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/22-follow-along-link-highlighter) |
 | 23  | [Webcam](https://github.com/aykutulis/30-projects-html-css-js/tree/master/23-speech-synthesis)                                 | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/23-speech-synthesis)              |
+| 24  | [Webcam](https://github.com/aykutulis/30-projects-html-css-js/tree/master/24-sticky-nav)                                       | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/24-sticky-nav)                    |
