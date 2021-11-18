@@ -29,3 +29,4 @@
 | 23  | [Speech Synthesis](https://github.com/aykutulis/30-projects-html-css-js/tree/master/23-speech-synthesis)                           | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/23-speech-synthesis)              |
 | 24  | [Sticky Nav](https://github.com/aykutulis/30-projects-html-css-js/tree/master/24-sticky-nav)                                       | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/24-sticky-nav)                    |
 | 25  | [Events](https://github.com/aykutulis/30-projects-html-css-js/tree/master/25-events)                                               | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/25-events)                        |
+| 26  | [Follow Along Nav](https://github.com/aykutulis/30-projects-html-css-js/tree/master/26-follow-along-nav)                           | [Live Demo](https://aykutulis.github.io/30-projects-html-css-js/26-follow-along-nav)              |
